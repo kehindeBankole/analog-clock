@@ -48,3 +48,24 @@ position: absolute;
 top: 48%;
 right: 90%;
 }
+.t11{
+    position: absolute;
+    top: 8%;
+    left:25%;
+
+}
+.t1{
+    position: absolute;
+    top: 8%;
+    right:25%;
+}
+.t2{
+    position: absolute;
+    top:26%;
+    right:15%;
+}
+.t10{
+    position: absolute;
+    top:26%;
+    left:15%; 
+}
