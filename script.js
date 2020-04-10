@@ -11,16 +11,12 @@ function changesec(){
 
 }
 function changeBg(){
-    
     document.body.style.backgroundColor=bgs[current]
     if(current==bgs.length - 1){
         current=-1
     }
     current++
 }
-document.body.addEventListener('click' , ()=>{
-    changeBg()
-})
 setInterval(()=>{
     changesec();
    changeBg()
